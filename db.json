@@ -3,14 +3,20 @@
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "second"
     }
   ],
   "profile": {
     "name": "typicode test"
   },
-  "score" : [
-      { "team": "TRINIDAD & TOBAGO", "flag": "ENG", "score": 12 },
-      { "team": "AUSTRALIA", "flag": "AUS", "score": 234 }
-      ],
-   "time": "12:34"
+  "score": [
+    { "team": "TRINIDAD & TOBAGO", "flag": "ENG", "score": 12 },
+    { "team": "AUSTRALIA", "flag": "AUS", "score": 234 }
+  ],
+  "time": {
+    "now": "12.34"
+  }
 }
