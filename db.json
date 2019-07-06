@@ -1,16 +1,16 @@
 {
-   page : [ 0, 1, 2, 3 ],
-   score : [
-      { team: "TRINIDAD & TOBAGO", flag: "ENG", score: 12 },
-      { team: "AUSTRALIA", flag: "AUS", score: 234 }
+   "page" : [ 0, 1, 2, 3 ],
+   "score" : [
+      { "team": "TRINIDAD & TOBAGO", flag: "ENG", score: 12 },
+      { "team": "AUSTRALIA", flag: "AUS", score: 234 }
       ],
-   time: "12:34",
-   message: 'After 2 games',
-   group: 'A',
-   league: [
-      { id: 0, team: 'Australia', flag: 'AUS', pd: 2, w: 2, pts: 122 },
-      { id: 1, team: 'France', flag: 'FRA', pd: 2, w: 1, pts: 26 },
-      { id: 2, team: 'England', flag: 'ENG', pd: 2, w: 0, pts: 27 },
-      { id: 3, team: 'Japan', flag: 'JAP', pd: 1, w: 1, pts: 91 }
+   "time": "12:34",
+   "message": 'After 2 games',
+   "group": 'A',
+   "league": [
+      { "id": 0, "team": 'Australia', "flag": 'AUS', "pd": 2, "w": 2, "pts": 122 },
+      { "id": 1, "team": 'France', "flag": 'FRA', "pd": 2, "w": 1, "pts": 26 },
+      { "id": 2, "team": 'England', "flag": 'ENG', "pd": 2, "w": 0, "pts": 27 },
+      { "id": 3, "team": 'Japan', "flag": 'JAP', "pd": 1, "w": 1, "pts": 91 }
       ]
    }
