@@ -1,11 +1,10 @@
-{
-   "page" : [ 0, 1, 2, 3 ],
+
    "score" : [
       { "team": "TRINIDAD & TOBAGO", "flag": "ENG", "score": 12 },
       { "team": "AUSTRALIA", "flag": "AUS", "score": 234 }
       ],
    "time": "12:34",
-   "message": "After 2 games",
+   "message": "SOMETHING TO SAY",
    "group": "A",
    "league": [
       { "id": 0, "team": "Australia", "flag": "AUS", "pd": 2, "w": 2, "pts": 122 },
